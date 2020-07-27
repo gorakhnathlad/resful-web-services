@@ -1,0 +1,8 @@
+This is sample.
+git clone https://github.com/gorakhnathlad/restful-web-services.git
+git status
+git add filename | . for all
+git commit -m "message while commiting"
+git status origin master
+git status
+git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(reset) %><(55,trunc)%s%C(red)%d%C(reset) %C(blue)[%an]%C(reset) %C(yellow)%ad%C(reset)%n'
